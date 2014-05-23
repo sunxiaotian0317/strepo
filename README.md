@@ -1,0 +1,4 @@
+strepo
+======
+
+Sample repository
